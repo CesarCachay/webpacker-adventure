@@ -8,7 +8,12 @@ const Navbar = () => {
       <div>
         <Link to="leaderboard">Leaderboard</Link>
       </div>
-      <Link to="game">Game</Link>
+      <div>
+        <Link to="game">Game</Link>
+      </div>
+      <div>
+        <Link to="characters">Characters</Link>
+      </div>
     </>
   );
 };
